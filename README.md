@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
-- 📫 How to reach me **sakibur276@gmail.com**
+- 📫 How to reach me **rahmansakibur276@gmail.com**
 
 - ⚡ Fun fact **I think I am funny and kind-hearted person**
 
