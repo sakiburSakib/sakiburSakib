@@ -1,4 +1,4 @@
-![MasterHead]([[https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif])
+![MasterHead](https://github.com/sakiburSakib/sakiburSakib/blob/main/QA%20Banner.png)
 <h1 align="center">👋, I'm Sakibur Rahman</h1>
 <h3 align="center">A committed SQA professional, Driven to deliver quality, precision, and seamless user experiences.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoybVqdo_jJjYKcx0WjOAfWOlfvBl0EeGloZEXwXlg7g&s">
